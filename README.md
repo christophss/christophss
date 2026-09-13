@@ -1,10 +1,10 @@
 Hi 👋 My name is Christopher Doss
 =================================
 
-Automation Engineer
+Backend and Automnation Engineer
 -------------------
 
-A passionate automation engineer with experience in building automation frameworks for Embedded systems, APIs, Databases, Mobile Native Applications and Web Applications.
+A passionate backend and automation engineer with experience in building solutions for Embedded systems, APIs, Databases, Mobile Native Applications and Web Applications.
 
 * 🌍  I'm based in Austin, TEXAS
 * ✉️  You can contact me at [christoph.ss@hotmail.com](mailto:christoph.ss@hotmail.com)
