@@ -1,7 +1,7 @@
 Hi 👋 My name is Christopher Doss
 =================================
 
-Backend and Automnation Engineer
+Backend and Automation Engineer
 -------------------
 
 A passionate backend and automation engineer with experience in building solutions for Embedded systems, APIs, Databases, Mobile Native Applications and Web Applications.
